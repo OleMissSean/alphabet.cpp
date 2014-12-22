@@ -1,5 +1,5 @@
 /*
-Sean Stasny
+Sean Staz
 CSC 2134
 Alphabet
 Program Alphabet asks the user to input up to ten characters. The program
